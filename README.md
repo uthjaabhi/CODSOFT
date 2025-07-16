@@ -58,8 +58,8 @@ A mini contact management system that:
 
 - Core Python (variables, loops, functions)
 - File Handling & Data Storage
-- Use of Modules (`random`, `os`, `json`)
-- Command-line Interfaces (CLI)
+- Use of Modules (`random`, `os`, `json`,`tinkter`)
+- Command-line Interfaces (CLI), GUI
 - Clean code and modular structure
 
 ---
@@ -68,7 +68,7 @@ A mini contact management system that:
 
 - **Language:** Python 3.x
 - **Tools:** VS Code, Git
-- **Libraries:** Built-in Python libraries only (no external dependencies)
+- **Libraries:** Built-in Python libraries only 
 
 ---
 
@@ -86,5 +86,5 @@ This experience has deepened my understanding of real-world Python programming.
 
 ---
 
-> 📌 *Repository maintained by [Your Name]*  
+> 📌 *Repository maintained by Abhinav Rajput.  
 > 🎓 *Intern - Python Programming*
