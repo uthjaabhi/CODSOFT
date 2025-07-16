@@ -8,7 +8,7 @@ This repository showcases the projects I built during my internship using core P
 
 ## 🚀 Project List
 
-### ✅ 1. To-Do List (CLI Based)
+### ✅ 1. To-Do List (GUI Based)
 A gui based task manager that lets users:
 - Add tasks
 - View all tasks
@@ -31,7 +31,6 @@ A simple gui calculator capable of performing:
 A secure password generator that:
 - Creates strong random passwords
 - Supports custom length
-- Option to include symbols, digits, uppercase, lowercase  
 📁 `password_gen.py`
 
 ---
@@ -39,7 +38,6 @@ A secure password generator that:
 ### ✊🖐✌️ 4. Rock-Paper-Scissors Game
 A fun interactive game:
 - Play against the computer
-- Uses `random` module
 - Tracks win/lose/draw statistics  
 📁 `rock-paper-scissors.py`
 
