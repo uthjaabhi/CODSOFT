@@ -48,7 +48,7 @@ A mini contact management system that:
 - Adds new contacts
 - Edits or deletes existing entries
 - Stores data persistently (text or JSON file)  
-📁 `contact_book.py`
+📁 `contacts.py`
 
 ---
 
